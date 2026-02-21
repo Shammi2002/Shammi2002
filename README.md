@@ -8,7 +8,7 @@
 
 -  I'm currently learning **at Faculty of Engineering. Department of Electrical and Electronic Engineering,  University of Peradeniya**
 
--  Ask me about **Python, C++, Verilog**
+-  Ask me about **Python, C++, MATLAB, Verilog**
 
 -  How to reach me **e20392@eng.pdn.ac.lk**
 
