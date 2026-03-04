@@ -14,7 +14,7 @@
 
 -  Portfolio of my Final Year Project available at **[https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
--  Know about my experiences **[https://drive.google.com/file/d/1lu1QiLNRQv2Vy-RWibfGJUhIV3pN4Kmd/view?usp=drive_link](https://drive.google.com/file/d/1lu1QiLNRQv2Vy-RWibfGJUhIV3pN4Kmd/view?usp=drive_link)**
+-  Know about my experiences **[https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link](https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
