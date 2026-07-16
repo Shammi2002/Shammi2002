@@ -2,15 +2,13 @@
 
 ### Electrical and Electronic undergraduate
 
+-  I'm currently continuing my internship at Advanced Research Computing Lanka PVT Ltd.
 
-
--  I'm currently working on **implementation of sobel edge detection algorithm on Basys3 FPGA Board**
-
--  I'm currently learning **at Faculty of Engineering. Department of Electrical and Electronic Engineering,  University of Peradeniya**
+-  I'm a undergraduate **at Faculty of Engineering. Department of Electrical and Electronic Engineering,  University of Peradeniya**
 
 -  Ask me about **Python, C++, MATLAB, Verilog**
 
--  How to reach me **e20392@eng.pdn.ac.lk**
+-  How to reach me **thennakoon.sstm@gmail.com** 
 
 -  Portfolio of my Final Year Project available at **[https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
