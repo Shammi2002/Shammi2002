@@ -12,6 +12,24 @@ Electrical and Electronic Engineering graduate (University of Peradeniya) specia
 
 ---
 
+---
+
+## Certifications
+
+<a href="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url">
+  <img src="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url" alt="AWS Certified AI Practitioner" width="120"/>
+</a>
+
+**AWS Certified AI Practitioner**<br>
+Amazon Web Services
+
+
+
+
+
+
+
+---
 ## Skills
 
 **Programming Languages**<br>
