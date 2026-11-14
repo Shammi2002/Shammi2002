@@ -14,7 +14,6 @@ Electrical and Electronic Engineering graduate from the University of Peradeniya
 
 
 ## Certifications
-## Certifications
 
 <a href="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url">
   <img src="https://github.com/user-attachments/assets/5cf9e01f-e27a-4a3c-bb96-f8656e3ba6c6" alt="AWS Certified AI Practitioner" width="120" />
