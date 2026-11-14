@@ -17,14 +17,11 @@ Electrical and Electronic Engineering graduate (University of Peradeniya) specia
 ## Certifications
 
 <a href="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url">
-  <img src="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url" alt="AWS Certified AI Practitioner" width="120"/>
+  <img src="<img width="600" height="600" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/5cf9e01f-e27a-4a3c-bb96-f8656e3ba6c6" />
+" alt="AWS Certified AI Practitioner" width="120"/>
 </a>
 
-**AWS Certified AI Practitioner**<br>
-Amazon Web Services
-
-
-
+**AWS Certified AI Practitioner**<br> - Amazon Web Services
 
 
 
@@ -50,13 +47,18 @@ Google Colab, Kaggle
 
 **Electronics and Embedded Systems**<br>
 ESP32, Proteus, Multisim, KiCad, Vivado, Microchip Studio, AutoCAD
+
+
+
+
 ---
+
 
 ## Selected Work
 
 **Multi-Sensor Cardiovascular Disease Prediction** · April 2026<br>
 *TensorFlow, Kaggle, Google Colab*<br>
-Non-invasive platform combining ECG, PPG and blood pressure signals for early cardiovascular disease prediction. Improved multiclass classification accuracy and robustness by optimising preprocessing, feature extraction and model architectures.
+Non-invasive platform combining ECG, PPG and blood pressure signals for early cardiovascular disease prediction. Improved multiclass classification accuracy and robustness by optimising preprocessing, feature extraction and model architectures.[View final-year project portfolio](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit)
 
 **FPGA Implementation of Sobel Edge Detection** · March 2026<br>
 *Verilog, Python, OpenCV*<br>
@@ -74,7 +76,7 @@ Wireless smart lighting system with adjustable brightness and colour temperature
 *ATmega328P, Arduino IDE, Proteus, Microchip Studio*<br>
 Surface tension measurement system with pressure sensing, ADC-based data acquisition and real-time signal processing, validated in Proteus simulation.
 
-[View final-year project portfolio](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit)
+
 
 ---
 
