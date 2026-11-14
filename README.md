@@ -1,6 +1,6 @@
 <img width="1500" height="400" alt="banner" src="https://github.com/user-attachments/assets/eb0cbe01-7039-4bef-911d-e7900e1e3704" />
 
-Electrical and Electronic Engineering graduate (University of Peradeniya) specialising in AI and Signal Processing. Recently completed a six-month AI/ML Engineer internship at **Advanced Research Computing Lanka**, building machine learning pipelines, LLM agents, recommender systems and deployed models.
+Electrical and Electronic Engineering graduate from the University of Peradeniya, specialising in AI and Signal Processing, and an **AWS Certified AI Practitioner**. I recently completed a six-month AI/ML Engineer internship at **Advanced Research Computing Lanka**, where I built LangGraph-based AI agents, fine-tuned a plant disease classifier and deployed containerised ML services on Google Cloud Run and AWS. I enjoy turning machine learning ideas into reliable, deployed systems.
 
 
 <p align="left">
@@ -12,18 +12,16 @@ Electrical and Electronic Engineering graduate (University of Peradeniya) specia
 
 ---
 
----
 
+## Certifications
 ## Certifications
 
 <a href="https://www.credly.com/badges/e0e6c282-dd7e-4eed-9c69-920449c363f3/public_url">
-  <img src="<img width="600" height="600" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/5cf9e01f-e27a-4a3c-bb96-f8656e3ba6c6" />
-" alt="AWS Certified AI Practitioner" width="120"/>
+  <img src="https://github.com/user-attachments/assets/5cf9e01f-e27a-4a3c-bb96-f8656e3ba6c6" alt="AWS Certified AI Practitioner" width="120" />
 </a>
 
-**AWS Certified AI Practitioner**<br> - Amazon Web Services
-
-
+**AWS Certified AI Practitioner**<br>
+Amazon Web Services
 
 
 ---
