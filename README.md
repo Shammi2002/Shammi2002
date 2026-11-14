@@ -29,17 +29,39 @@ I'm interested in building practical AI-driven solutions and continuously expand
 - [CV](https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link)
 - [Internship Experience](https://drive.google.com/drive/folders/1iVvy5JyZ6EIkfRdeBbpj6UQY6WPkNmRi?usp=sharing)
 
-### 🤝 Connect with Me
+### Connect with Me
 
-- 📧 Email: [thennakoon.sstm@gmail.com](mailto:thennakoon.sstm@gmail.com)
-- 💼 LinkedIn: [Shammi Thennakoon](https://www.linkedin.com/in/shammi-thennakoon/)
-- 🐙 GitHub: [Shammi2002](https://github.com/Shammi2002)
-- 📊 Kaggle: [tmssthennakoon](https://www.kaggle.com/tmssthennakoon)
-- 💻 HackerRank: [thennakoon_sstm](https://www.hackerrank.com/@thennakoon_sstm)
+<p align="left">
+  <a href="mailto:thennakoon.sstm@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shammi-thennakoon/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shammi2002" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/tmssthennakoon" title="Kaggle">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg" width="32" alt="Kaggle"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/@thennakoon_sstm" title="HackerRank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" width="32" alt="HackerRank"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/shammi-thennakoon" title="Credly">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/credly.svg" width="32" alt="Credly"/>
+  </a>
+</p>
+
+**Email:** [thennakoon.sstm@gmail.com](mailto:thennakoon.sstm@gmail.com)
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,opencv,fastapi,docker,aws,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,opencv,docker,aws,gcp,git,github" />
 </p>
 
