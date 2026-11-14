@@ -1,4 +1,4 @@
-# Hi, I'm T.M.S.S. Thennakoon 
+<img width="1500" height="400" alt="banner" src="https://github.com/user-attachments/assets/eb0cbe01-7039-4bef-911d-e7900e1e3704" />
 
 ### Electrical & Electronic Engineering Graduate | AI/ML Enthusiast
 
@@ -8,7 +8,7 @@ I recently completed a six-month internship as an **AI/ML Engineer at Advanced R
 
 I'm interested in building practical AI-driven solutions and continuously expanding my knowledge in machine learning, intelligent systems, and cloud technologies.
 
-### 🔧 Technical Interests & Skills
+###  Technical Interests & Skills
 
 - **Programming:** Python, C++, MATLAB, Verilog
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV
@@ -17,14 +17,14 @@ I'm interested in building practical AI-driven solutions and continuously expand
 - **Cloud & Tools:** AWS, Google Cloud, Git, GitHub
 - **Other Interests:** Signal Processing, Embedded Systems, Automation
 
-### 🚀 Selected Academic & Technical Work
+###  Selected Academic & Technical Work
 
 - **AI/ML Engineering:** Machine learning pipelines, model evaluation, and deployment.
 - **Agentic AI Applications:** Development of LLM-based agents and workflow automation.
 - **Agricultural Intelligence:** Soil data analysis, geospatial mapping, and plant disease classification.
 - **Final-Year Project:** Explore my project portfolio [here](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit).
 
-### 📄 Professional Experience
+###  Professional Experience
 
 - [CV](https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link)
 - [Internship Experience](https://drive.google.com/drive/folders/1iVvy5JyZ6EIkfRdeBbpj6UQY6WPkNmRi?usp=sharing)
