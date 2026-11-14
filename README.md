@@ -1,31 +1,45 @@
-# Hi , I'm  T.M.S.S.Thennakoon
+# Hi, I'm T.M.S.S. Thennakoon 
 
-### Electrical and Electronic undergraduate
+### Electrical & Electronic Engineering Graduate | AI/ML Enthusiast
 
--  I'm currently continuing my internship at Advanced Research Computing Lanka PVT Ltd.
+I'm an Electrical and Electronic Engineering graduate from the **University of Peradeniya**, with a specialisation in **AI and Signal Processing**.
 
--  I'm a undergraduate **at Faculty of Engineering. Department of Electrical and Electronic Engineering,  University of Peradeniya**
+I recently completed a six-month internship as an **AI/ML Engineer at Advanced Research Computing Lanka**, where I gained hands-on experience in machine learning, AI agent development, recommender systems, and model deployment.
 
--  Ask me about **Python, C++, MATLAB, Verilog**
+I'm interested in building practical AI-driven solutions and continuously expanding my knowledge in machine learning, intelligent systems, and cloud technologies.
 
--  How to reach me **thennakoon.sstm@gmail.com** 
+### 🔧 Technical Interests & Skills
 
--  Portfolio of my Final Year Project available at **[https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit?utm_content=DAG7kGL-3GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+- **Programming:** Python, C++, MATLAB, Verilog
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV
+- **AI & Agent Development:** LangGraph, LLM-based applications, RAG
+- **Backend & Deployment:** FastAPI, Docker, REST APIs
+- **Cloud & Tools:** AWS, Google Cloud, Git, GitHub
+- **Other Interests:** Signal Processing, Embedded Systems, Automation
 
--  Know about my experiences **[https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link](https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link)**
+### 🚀 Selected Academic & Technical Work
 
-<h3 align="left">Connect with me:</h3>
+- **AI/ML Engineering:** Machine learning pipelines, model evaluation, and deployment.
+- **Agentic AI Applications:** Development of LLM-based agents and workflow automation.
+- **Agricultural Intelligence:** Soil data analysis, geospatial mapping, and plant disease classification.
+- **Final-Year Project:** Explore my project portfolio [here](https://www.canva.com/design/DAG7kGL-3GY/C8G8dF1CxT9wCAQmg5V5vA/edit).
+
+### 📄 Professional Experience
+
+- [CV](https://drive.google.com/file/d/1rNO36SORybq1su2IomvcK9Vbyg5KkPrL/view?usp=drive_link)
+- [Internship Experience](https://drive.google.com/drive/folders/1iVvy5JyZ6EIkfRdeBbpj6UQY6WPkNmRi?usp=sharing)
+
+### 🤝 Connect with Me
+
+- 📧 Email: [thennakoon.sstm@gmail.com](mailto:thennakoon.sstm@gmail.com)
+- 💼 LinkedIn: [Shammi Thennakoon](https://www.linkedin.com/in/shammi-thennakoon/)
+- 🐙 GitHub: [Shammi2002](https://github.com/Shammi2002)
+- 📊 Kaggle: [tmssthennakoon](https://www.kaggle.com/tmssthennakoon)
+- 💻 HackerRank: [thennakoon_sstm](https://www.hackerrank.com/@thennakoon_sstm)
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://github.com/Shammi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shammi2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/shammi-thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shammi-thennakoon" height="30" width="40" /></a>
-<a href="https://kaggle.com/tmssthennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tmssthennakoon" height="30" width="40" /></a>
-<a href="https://hackerrank.com/@thennakoon_sstm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@thennakoon_sstm" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,opencv,fastapi,docker,aws,gcp,git,github" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
-
-
-
-
 
